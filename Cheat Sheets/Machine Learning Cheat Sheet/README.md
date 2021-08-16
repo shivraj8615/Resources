@@ -10,7 +10,7 @@ Available in [العربية](https://github.com/afshinea/stanford-cs-229-machin
 
 #### Data Preprocessing Cheat Sheets
 |<a href="https://github.com/Neklaustares-tPtwP/Resources/blob/main/Cheat%20Sheets/Machine%20Learning%20Cheat%20Sheet/Data_Cleaning_Cheat_Sheet.jpg"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/en-005.png" alt="Illustration" width="220px"/></a>|<a href="https://github.com/Neklaustares-tPtwP/Resources/blob/main/Cheat%20Sheets/Machine%20Learning%20Cheat%20Sheet/Data_Exploration_cheatsheet.jpg"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/en-006.png#1" alt="Illustration" width="220px"/></a>||<a href="https://github.com/Neklaustares-tPtwP/Resources/blob/main/Cheat%20Sheets/Machine%20Learning%20Cheat%20Sheet/data-visualisation-cheatsheet.jpg"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/en-005.png" alt="Illustration" width="220px"/></a>||<a href="https://github.com/Neklaustares-tPtwP/Resources/blob/main/Cheat%20Sheets/Machine%20Learning%20Cheat%20Sheet/EDA_Cheat_Sheet.jpg"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/en-005.png" alt="Illustration" width="220px"/></a>|
-|:--:|:--:|
+|:--:|:--:|:--:|:--:|
 |Data Cleaning|Data Exploration|Data Visualization|EDA|
 
 ## Website
