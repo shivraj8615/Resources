@@ -29,3 +29,4 @@ Would you like to see these cheatsheets in your native language? You can help us
 
 ## Credits
 https://github.com/afshinea
+https://www.analyticsvidhya.com/
