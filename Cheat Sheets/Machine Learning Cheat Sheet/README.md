@@ -13,6 +13,11 @@ Available in [العربية](https://github.com/afshinea/stanford-cs-229-machin
 |:--:|:--:|:--:|:--:|
 |Data Cleaning|Data Exploration|Data Visualization|EDA|
 
+#### Super Machine Learning Cheatsheet
+|<a href="https://github.com/Neklaustares-tPtwP/Resources/blob/main/Cheat%20Sheets/Machine%20Learning%20Cheat%20Sheet/super-cheatsheet-machine-learning.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/en-007.png" alt="Illustration" width="400px"/></a>|
+|:--:|
+|All the ML Cheat Sheet gathered in one place|
+
 ## Website
 This material is also available on a dedicated [website](https://stanford.edu/~shervine/teaching/cs-229), so that you can enjoy reading it from any device.
 
