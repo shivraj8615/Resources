@@ -28,6 +28,6 @@ Would you like to see these cheatsheets in your native language? You can help us
 [Afshine Amidi](https://twitter.com/afshinea) (Ecole Centrale Paris, MIT) and [Shervine Amidi](https://twitter.com/shervinea) (Ecole Centrale Paris, Stanford University)
 
 ## Credits
-https://azure.microsoft.com/en-in/services/machine-learning/
-https://github.com/afshinea
-https://www.analyticsvidhya.com/
+- https://azure.microsoft.com/en-in/services/machine-learning/
+- https://github.com/afshinea
+- https://www.analyticsvidhya.com/
